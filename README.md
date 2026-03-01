@@ -61,8 +61,8 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone <>
-    cd <>
+    git clone https://github.com/AleksandraIvanova90/user_manager.git
+    cd user_manager
     ```
 
 2.  **Настройте и запустите бэкенд:**
